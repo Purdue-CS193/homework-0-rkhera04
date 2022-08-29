@@ -1,24 +1,13 @@
-#rkhera04's First CS193 Homework
+# rkhera04's First CS193 Homework
 
-##Favorite Things About CS193
+## Favorite Things About CS193
 - The class is taught by students
 - The teachers are very friendly
 - The class teaches me useful skills
 - I have friends in the class
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+===========================================================================================================================================================
 
 
 ## Welcome to GitHub Pages
